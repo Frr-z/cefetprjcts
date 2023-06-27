@@ -6,7 +6,7 @@ int main() {
     int i = 0, Nmr,Nmr2, Divisores[1000] = {};
     char Str[] = {};
 
-    printf("Informe o inteiro para ser convertido em decimal: ");
+    printf("Informe o inteiro para ser convertido em binário: ");
     scanf("%d", &Nmr);
     
     while(Nmr >= 2){
